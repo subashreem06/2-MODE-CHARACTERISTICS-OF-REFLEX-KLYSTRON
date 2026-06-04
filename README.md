@@ -5,7 +5,6 @@
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
 **Equipment and Component:**
-
 1.	Klystron power supply MTI KP 503
 2.	Klystron tube /2k25
 3.	Isolator MTI/ NVIS- 204
@@ -15,12 +14,10 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 7.	Waveguide stands MTI/NVIS
 8.	VSWR meter MTI VS 501/NVIS
 9.	Cathode Ray Oscilloscope Scientech -801C
-    
-**Experimental Setup:**
-
-<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
+    **Experimental Setup:**
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
+
 
 **Theory**
 
@@ -54,8 +51,10 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+**Observation:**
+<img width="1563" height="1004" alt="image" src="https://github.com/user-attachments/assets/de6b77b8-0cf4-4c63-9b93-d7222ffcffe8" />
+
+<img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/a0c5f613-54e7-4c5b-95ee-262781b95963" />
 
 **CALCULATIONS:**
 
@@ -78,10 +77,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
     **Result:**
    	
+	The mode characteristics of the Reflex Klystron were successfully studied. The Electronic Tuning Range (ETR) was found to be about 150 MHz, and the Electronic Tuning Sensitivity (ETS) was about 7.5 MHz/V. Thus, the klystron effectively demonstrated electronic tuning using velocity modulation.		
 			
 			
 			
 			
-			
-
-
